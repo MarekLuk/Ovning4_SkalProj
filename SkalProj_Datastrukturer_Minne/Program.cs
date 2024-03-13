@@ -8,6 +8,7 @@ namespace SkalProj_Datastrukturer_Minne
         /// The main method, vill handle the menues for the program
         /// </summary>
         /// <param name="args"></param>
+        // check how it works
         static void Main()
         {
 
